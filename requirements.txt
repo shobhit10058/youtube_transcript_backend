@@ -1,0 +1,6 @@
+flask
+youtube_transcript_api
+flask_cors
+sumy
+nltk
+pyngrok
